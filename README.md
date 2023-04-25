@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rei-envy
+- 👋 Hi, I’m @Rei
 - 👀 I’m interested in ...book
 - 🌱 I’m currently learning ...microcomputer
 - 💞️ I’m looking to collaborate on ...nothing
